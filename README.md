@@ -2,7 +2,7 @@
 
 **🔭 Full time data science students. Part time maths and coding teacher. Part time foodie.**
 - 🌱 I’m currently learning SQL, Machine Learning, and NLP
-- 🔭 I’m currently working on all of these (projects)[https://medium.com/coders-camp/230-machine-learning-projects-with-python-5d0c7abf8265]. Let me know if anyone want to do projects with me!
+- 🔭 I’m currently working on all of these [projects](https://medium.com/coders-camp/230-machine-learning-projects-with-python-5d0c7abf8265). Let me know if anyone want to do projects with me!
 - ⚡ Language Used: C++, Python, SQL
 - 📫 How to reach me: ghinakhalda.h@gmail.com
 
