@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**🔭 Full time data science students. Part time maths and coding teacher. Part time foodie.**
+**🔭 Full time data science students. Part time maths and coding teacher.**
 - 🌱 I’m currently learning SQL, Machine Learning, and NLP
 - 🔭 I’m currently working on NLP Projects!
 - ⚡ Language Used: C++, Python, SQL
